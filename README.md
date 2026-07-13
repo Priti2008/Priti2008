@@ -1,5 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Priti Yadav
 
+🎓 First-Year Computer Science Student at KIET Group of Institutions
+
+## 🚀 About Me
+- 💻 Learning C++, DSA, Web Development & AI
+- 🌱 Currently contributing to Open Source (GSSoC 2026)
+- 📚 Improving problem-solving through LeetCode
+- 🎯 Goal: Become a Software Developer
+
+## 🛠️ Tech Stack
+- C++
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- GitHub
+
+## 📌 Current Focus
+- Open Source Contributions
+- Data Structures & Algorithms
+- Building Real-World Projects
+
+## 📫 Connect with Me
+GitHub: https://github.com/Priti2008
+
+⭐ Thanks for visiting my profile!
 <!--
 **Priti2008/Priti2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
