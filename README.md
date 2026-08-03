@@ -1,6 +1,6 @@
 # Hi 👋, I'm Priti Yadav
 
-🎓 First-Year Computer Science Student at KIET Group of Institutions
+🎓 2nd-Year Computer Science Student at KIET Group of Institutions
 
 ## 🚀 About Me
 - 💻 Learning C++, DSA, Web Development & AI
