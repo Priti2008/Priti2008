@@ -25,6 +25,7 @@
 
 ## 📫 Connect with Me
 GitHub: https://github.com/Priti2008
+linkedin: https://www.linkedin.com/in/priti-yadav-8b946a380?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ⭐ Thanks for visiting my profile!
 <!--
