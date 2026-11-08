@@ -1,15 +1,10 @@
 <h1 align="center">
-  <font face="Brush Script MT" size="7" color="#F85858">Priti Yadav</font>
+  <font face="Fira Code" size="7" color="#F85858">Priti</font>
 </h1>
 <p align="center">🎓 2nd-Year Computer Science Student at KIET Group of Institutions</p>
 
 <p align="center">
   <em>"They say the front-end makes the first impression, but the back-end keeps the world running. I design robust APIs, architect scalable data flows, and build systems that don't just work—they endure."</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priti2008&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Priti2008?label=Follow&style=flat-square&logo=github" alt="GitHub Followers" />
 </p>
 
 ---
