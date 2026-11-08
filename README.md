@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=45&pause=1000&color=F85858&center=true&vCenter=true&width=300&height=70&lines=Priti" alt="Priti" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=45&pause=1000&color=F85858&center=true&vCenter=true&width=300&height=70&lines=Priti" alt="Priti" />
 </h1>
 <p align="center">🎓 2nd-Year Computer Science Student at KIET Group of Institutions</p>
 
