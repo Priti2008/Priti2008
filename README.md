@@ -1,11 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=45&pause=1000&color=F85858&center=true&vCenter=true&width=300&height=70&lines=Priti" alt="Priti" />
-</h1>
-<p align="center">🎓 2nd-Year Computer Science Student at KIET Group of Institutions</p>
+<div align="center">
 
-<p align="center">
-  <em>"They say the front-end makes the first impression, but the back-end keeps the world running. I design robust APIs, architect scalable data flows, and build systems that don't just work—they endure."</em>
-</p>
+# ✨ Priti ✨
+
+🎓 **2nd-Year Computer Science Student at KIET Group of Institutions**
+
+> *"They say the front-end makes the first impression, but the back-end keeps the world running. I design robust APIs, architect scalable data flows, and build systems that don't just work—they endure."*
+
+</div>
 
 ---
 
