@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F85858&center=true&vCenter=true&width=300&height=60&lines=Priti" alt="Priti" />
+  <font face="Brush Script MT" size="7" color="#F85858">Priti Yadav</font>
 </h1>
 <p align="center">🎓 2nd-Year Computer Science Student at KIET Group of Institutions</p>
 
@@ -26,4 +26,18 @@
 ## 📊 GitHub Stats & Contribution Activity
 
 <p align="center">
-  <img height="180px" src="
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Priti2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priti2008&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priti2008&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,django,fastapi,javascript,html,css,react,git,github,vscode,linux,mongodb,postman" />
+</p>
