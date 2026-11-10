@@ -19,19 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats & Contribution Activity
-
-<p align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Priti2008&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priti2008&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Priti2008&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
